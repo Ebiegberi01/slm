@@ -3,7 +3,7 @@ This project implements a small language model using k-grams.
 
 Files in this project are: main.cpp; LanguageModel.cpp; LanguageModel.h; FileReader.h; FileReader.cpp; a_modest_proposal.txt; moby_dick.txt; Gutenberg_license.txt; Makefile.txt; slm.exe
 
-Compiled with the Makefile.txt
+Compiled with the Makefile
 
 Tested with: ./slm.exe 3 Gutenberg_license.txt 30;  ./slm.exe 3 moby_dick.txt 50
 
